@@ -1,0 +1,11 @@
+<map id="sedflux" name="sedflux">
+<area shape="rect" id="Node000001" title=" " alt="" coords="323,29,387,56"/>
+<area shape="poly" id="edge1_Node000001_Node000001" title=" " alt="" coords="371,13,366,10,355,8,344,10,339,14,337,20,340,30,336,27,332,20,334,11,342,5,355,3,368,5,376,14"/>
+<area shape="rect" id="Node000002" href="$efdc9_8f.html#aa873249c805feb2121919a7726694551" title=" " alt="" coords="218,29,275,56"/>
+<area shape="poly" id="edge2_Node000001_Node000002" title=" " alt="" coords="305,43,276,45,276,40,311,43"/>
+<area shape="poly" id="edge5_Node000002_Node000002" title=" " alt="" coords="263,13,258,10,247,8,236,10,230,14,229,20,232,30,227,28,224,20,226,11,234,5,247,3,260,5,268,14"/>
+<area shape="rect" id="Node000003" href="$efdc8_8f.html#a7dc178d8592ecf0cf2ebf2015fd72a4a" title=" " alt="" coords="106,29,170,56"/>
+<area shape="poly" id="edge3_Node000002_Node000003" title=" " alt="" coords="199,43,171,45,171,40,205,43"/>
+<area shape="rect" id="Node000004" href="$efdc9_8f.html#a6b744a6a2023921f37d8ae88e5240f36" title=" " alt="" coords="5,29,58,56"/>
+<area shape="poly" id="edge4_Node000003_Node000004" title=" " alt="" coords="88,43,58,45,58,40,93,42"/>
+</map>
